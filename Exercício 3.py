@@ -10,9 +10,6 @@ def Converter (horas, minutos):
     else:
         print("Horário inválido, tente novamente colocando a hora de 0 à 24 e os minutos de 0 à 59.")
             
-horas = 1
-minutos = 1
-
 while True:
     horas = int(input("Insira a hora no modelo 24h: "))
     minutos = int(input("Agora coloque os minutos: "))
