@@ -23,9 +23,3 @@ while True:
         
     else:
         break
-    
-    
-    
-    
-
-            
